@@ -1,0 +1,7 @@
+﻿  Comparison.cpp
+  MyForm.cpp
+  Создание кода...
+C:\Users\anton\source\repos\Project_Glazkov\Convert_ed_izm.h(259): warning C4715: Convert_ed: значение возвращается не при всех путях выполнения
+C:\Users\anton\source\repos\Project_Glazkov\Convert_ed_izm.h(259): warning C4715: Convert_ed: значение возвращается не при всех путях выполнения
+  Accounting.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project_Glazkov.vcxproj -> C:\Users\anton\source\repos\Project_Glazkov\Debug\Project_Glazkov.exe
